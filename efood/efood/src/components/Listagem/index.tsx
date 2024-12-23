@@ -1,6 +1,6 @@
 import React from 'react'
 import { ListaCont } from './styles'
-import Produto from '../../Produto'
+import Produto from '../../../Produto'
 
 const Listagem = () => (
   <ListaCont>

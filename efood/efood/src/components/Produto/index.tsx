@@ -10,7 +10,7 @@ import {
 
 const Produto = () => (
   <Fundo>
-    <ImgProduct src="" alt="">
+    <ImgProduct src="//placeholder.it/472x218" >
       <a>Destaque da semana</a>
       <span>Japonesa</span>
     <ImgProduct/>

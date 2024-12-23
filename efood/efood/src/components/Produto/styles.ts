@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Cores } from '../stylesGlobal'
+import { Cores } from '../../stylesGlobal'
 
 export const Fundo = styled.div`
   max-width: 472px;
